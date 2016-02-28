@@ -1,0 +1,27 @@
+# Site settings
+title: The Adventures of EsserGray
+email: essergray@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  is a place for us to share photos and words related to our lives together.
+baseurl:  # the subpath of your site, e.g. /blog/
+url:  # http://essergray.com
+
+# Build settings
+markdown: kramdown
+
+highlighter: pygments
+
+gems: [jekyll-paginate]
+
+# Pagination
+paginate: 15
+paginate_path: "/blog/page:num/"
+
+
+collections:
+  excursions:
+    output: true
+    permalink: /excursions/:path/
+  wedding:
+    output: true
+    permalink: /wedding/:path/
