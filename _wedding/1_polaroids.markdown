@@ -2,8 +2,10 @@
 layout: page
 title: Polaroids
 description: ""
-img:
+img: /img/polaroids/img001.jpg
 ---
+
+<!--- TODO: update captions -->
 
 <!--- Row one -->
 <div class="img_row">
