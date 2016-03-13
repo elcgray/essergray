@@ -12,7 +12,7 @@ img: /img/polaroids/img001.jpg
 	<img class="col one" src="{{ site.baseurl }}/img/polaroids/3erin-bekah-katy-liz-rachel.jpeg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Rachel, Liz, and siblings (left to right) Erin, Bekah, and Katy.
+	Rachel, Liz, and siblings (left to right) Erin, Bekah, and Katy
 </div>
 
 <!--- Row two -->
