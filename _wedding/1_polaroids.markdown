@@ -5,8 +5,6 @@ description: ""
 img: /img/polaroids/img001.jpg
 ---
 
-<!--- TODO: update captions -->
-
 <!--- Row one -->
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/polaroids/1rachel-liz-kiss.jpeg" alt="" title="example image"/>
@@ -14,7 +12,7 @@ img: /img/polaroids/img001.jpg
 	<img class="col one" src="{{ site.baseurl }}/img/polaroids/3erin-bekah-katy-liz-rachel.jpeg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	Rachel, Liz, and siblings (left to right) Erin, Bekah, and Katy.
 </div>
 
 <!--- Row two -->
@@ -24,7 +22,7 @@ img: /img/polaroids/img001.jpg
 	<img class="col one" src="{{ site.baseurl }}/img/polaroids/6erika.jpeg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	Kelli and Katy, Krista and Liz, Erika
 </div>
 
 <!--- Row three -->
@@ -34,7 +32,7 @@ img: /img/polaroids/img001.jpg
 	<img class="col one" src="{{ site.baseurl }}/img/polaroids/9angee-beth1.jpeg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	Bekah, Phil, Liz, and Erin; Rocky and Trevor; Angee and Beth
 </div>
 
 <!--- Row four -->
@@ -44,7 +42,7 @@ img: /img/polaroids/img001.jpg
 	<img class="col one" src="{{ site.baseurl }}/img/polaroids/12bekah-liz-erin.jpeg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	Eric and Nabiha; Joshua; Bekah, Liz, and Erin
 </div>
 
 <!--- Row five -->
@@ -54,7 +52,7 @@ img: /img/polaroids/img001.jpg
 	<img class="col one" src="{{ site.baseurl }}/img/polaroids/15de-caleb.jpeg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	Angee (and Eric in background), Bekah and Erin, Caleb and De
 </div>
 
 <!--- Row six -->
@@ -64,7 +62,7 @@ img: /img/polaroids/img001.jpg
 	<img class="col one" src="{{ site.baseurl }}/img/polaroids/18becky-da-pernille.jpeg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	Amy; Angee and Beth; Becky, Da, and Pernille
 </div>
 
 <!--- Row seven -->
@@ -74,7 +72,7 @@ img: /img/polaroids/img001.jpg
 	<img class="col one" src="{{ site.baseurl }}/img/polaroids/21liz-tie.jpeg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	Liz and Erin; Jesper, Becky, and Pernille; Liz's tie
 </div>
 
 <!--- Row eight -->
@@ -84,13 +82,13 @@ img: /img/polaroids/img001.jpg
 	<img class="col one" src="{{ site.baseurl }}/img/polaroids/24katy-erin-bekah.jpeg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	Nabiha; Sonia and Lindsey; Katy, Erin, and Bekah
 </div>
 
 <!--- Row nine -->
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/polaroids/25liz.jpeg" alt="" title="example image"/>
 </div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+<div class="col one caption">
+	Liz
 </div>
