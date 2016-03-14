@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Disposable Cameras, part 2
-img: /img/wedding/disposable-cameras/part-2/1.jpg
+img: /img/wedding/disposable-cameras/part-2/4.jpg
 ---
 
 <!--- Row one -->
